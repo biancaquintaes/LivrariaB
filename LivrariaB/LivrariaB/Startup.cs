@@ -8,7 +8,7 @@ namespace LivrariaB
     {
         public void Configuration(IAppBuilder app)
         {
-            ConfigureAuth(app);
+            
         }
     }
 }
